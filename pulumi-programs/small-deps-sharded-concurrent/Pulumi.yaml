@@ -1,0 +1,3 @@
+name: small-deps-sharded-concurrent
+runtime: nodejs
+description: Cache-benchmark skeleton mirroring bucket-time's npm dependency list (no real resources, avoids AWS credential validation).

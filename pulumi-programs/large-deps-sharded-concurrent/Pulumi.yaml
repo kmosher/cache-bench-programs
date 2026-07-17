@@ -1,0 +1,3 @@
+name: large-deps-sharded-concurrent
+runtime: nodejs
+description: Cache-benchmark skeleton mirroring infrastructure/service's non-workspace npm dependency list (no real resources).
