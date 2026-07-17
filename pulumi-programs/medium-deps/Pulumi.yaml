@@ -1,0 +1,3 @@
+name: medium-deps
+runtime: nodejs
+description: Cache-benchmark skeleton mirroring ttl-stacks's npm dependency list (no real resources, avoids AWS credential validation).
